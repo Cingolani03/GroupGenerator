@@ -67,6 +67,7 @@ public class Main {
 					personeAggiunte++;
 				}
 				}
+			System.out.println("sono stati creati questi gruppi");
 			System.out.println(gruppo); 
 		}
 	}
